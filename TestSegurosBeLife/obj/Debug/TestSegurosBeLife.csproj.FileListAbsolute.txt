@@ -1,0 +1,28 @@
+F:\DEN4501\Ejercicios\005V\Solucion SegurosBeLife 005V\TestSegurosBeLife\bin\Debug\TestSegurosBeLife.exe.config
+F:\DEN4501\Ejercicios\005V\Solucion SegurosBeLife 005V\TestSegurosBeLife\bin\Debug\TestSegurosBeLife.exe
+F:\DEN4501\Ejercicios\005V\Solucion SegurosBeLife 005V\TestSegurosBeLife\bin\Debug\TestSegurosBeLife.pdb
+F:\DEN4501\Ejercicios\005V\Solucion SegurosBeLife 005V\TestSegurosBeLife\bin\Debug\Clases.dll
+F:\DEN4501\Ejercicios\005V\Solucion SegurosBeLife 005V\TestSegurosBeLife\bin\Debug\Clases.pdb
+F:\DEN4501\Ejercicios\005V\Solucion SegurosBeLife 005V\TestSegurosBeLife\obj\Debug\TestSegurosBeLife.csprojResolveAssemblyReference.cache
+F:\DEN4501\Ejercicios\005V\Solucion SegurosBeLife 005V\TestSegurosBeLife\obj\Debug\TestSegurosBeLife.exe
+F:\DEN4501\Ejercicios\005V\Solucion SegurosBeLife 005V\TestSegurosBeLife\obj\Debug\TestSegurosBeLife.pdb
+C:\Users\ReneC\Desktop\Solucion\TestSegurosBeLife\bin\Debug\TestSegurosBeLife.exe.config
+C:\Users\ReneC\Desktop\Solucion\TestSegurosBeLife\bin\Debug\TestSegurosBeLife.exe
+C:\Users\ReneC\Desktop\Solucion\TestSegurosBeLife\bin\Debug\TestSegurosBeLife.pdb
+C:\Users\ReneC\Desktop\Solucion\TestSegurosBeLife\bin\Debug\Clases.dll
+C:\Users\ReneC\Desktop\Solucion\TestSegurosBeLife\bin\Debug\Clases.pdb
+C:\Users\ReneC\Desktop\Solucion\TestSegurosBeLife\obj\Debug\TestSegurosBeLife.csprojAssemblyReference.cache
+C:\Users\ReneC\Desktop\Solucion\TestSegurosBeLife\obj\Debug\TestSegurosBeLife.csproj.CoreCompileInputs.cache
+C:\Users\ReneC\Desktop\Solucion\TestSegurosBeLife\obj\Debug\TestSegurosBeLife.csproj.CopyComplete
+C:\Users\ReneC\Desktop\Solucion\TestSegurosBeLife\obj\Debug\TestSegurosBeLife.exe
+C:\Users\ReneC\Desktop\Solucion\TestSegurosBeLife\obj\Debug\TestSegurosBeLife.pdb
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\TestSegurosBeLife\bin\Debug\TestSegurosBeLife.exe.config
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\TestSegurosBeLife\bin\Debug\TestSegurosBeLife.exe
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\TestSegurosBeLife\bin\Debug\TestSegurosBeLife.pdb
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\TestSegurosBeLife\bin\Debug\Clases.dll
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\TestSegurosBeLife\bin\Debug\Clases.pdb
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\TestSegurosBeLife\obj\Debug\TestSegurosBeLife.csprojAssemblyReference.cache
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\TestSegurosBeLife\obj\Debug\TestSegurosBeLife.csproj.CoreCompileInputs.cache
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\TestSegurosBeLife\obj\Debug\TestSegurosBeLife.csproj.CopyComplete
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\TestSegurosBeLife\obj\Debug\TestSegurosBeLife.exe
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\TestSegurosBeLife\obj\Debug\TestSegurosBeLife.pdb

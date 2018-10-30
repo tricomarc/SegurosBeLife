@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Plantilla.master.cs" Inherits="AppWebSegurosBeLife.Plantilla" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<link rel="shortcut icon" type="image/ico" href="~/be.ico" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>BeLife - Sistema Usuarios</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+     <link href="css.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+		
+         <div id="header">
+			<ul class="nav">
+                <asp:Image ID="img_logo" runat="server" ImageUrl="~/Logo BeLife.png" />
+                  <li><a href="Index.aspx">Inicio</a></li>
+                  <li><a href="">Cliente</a>
+                        <ul>
+                            <li><a href="AgregarClientes.aspx">Agregar Cliente</a></li>
+                            <li><a href="ModificarClientes.aspx">Actualizar Cliente</a></li>
+                            <li><a href="ListaClientes.aspx">Buscar Cliente</a></li>
+                            <li><a href="ModificarClientes.aspx">Eliminar Cliente</a></li>
+                        </ul>
+                    </li>
+
+                  <li><a href="">Contratos</a>
+                      <ul>
+                            <li><a href="AgregarContrato.aspx">Agregar Contrato</a></li>
+                            <li><a href="ModificarContrato.aspx">Actualizar Contrato</a></li>
+                            <li><a href="ListaContrato.aspx">Buscar Contrato</a></li>
+                            <li><a href="ModificarContrato.aspx">Eliminar Contrato</a></li>
+                        </ul>
+                  </li>
+            </ul>
+         
+		</div>
+
+
+       
+			
+		
+		<h4>Sistema de gestion de Usuarios</h4>
+        <h2><asp:Label ID="lblNombreUsuario" runat="server" Text=""></asp:Label></h2>
+
+        <asp:Panel ID="pnlMenu" runat="server">
+            <!-- Aquí va el menú -->
+            
+
+
+        </asp:Panel>
+
+        <!-- Inicio ContentPlaceHolder -->
+        <asp:ContentPlaceHolder ID="Contenido" runat="server">        
+        </asp:ContentPlaceHolder>
+        <!-- Fin ContentPlaceHolder -->
+
+        <p>BeLife 2018</p>
+    </div>
+    </form>
+</body>
+</html>

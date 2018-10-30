@@ -1,0 +1,61 @@
+D:\Solucion SegurosBeLife 005V\Clases\bin\Debug\Clases.dll
+D:\Solucion SegurosBeLife 005V\Clases\bin\Debug\Clases.pdb
+D:\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+D:\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.dll
+D:\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.pdb
+F:\DEN4501\Ejercicios\005V\Solucion SegurosBeLife 005V\Clases\bin\Debug\Clases.dll
+F:\DEN4501\Ejercicios\005V\Solucion SegurosBeLife 005V\Clases\bin\Debug\Clases.pdb
+F:\DEN4501\Ejercicios\005V\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.dll
+F:\DEN4501\Ejercicios\005V\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.pdb
+F:\DEN4501\Ejercicios\005V\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\Obex\Desktop\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\bin\Debug\Clases.dll
+C:\Users\Obex\Desktop\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\bin\Debug\Clases.pdb
+C:\Users\Obex\Desktop\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\Obex\Desktop\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.dll
+C:\Users\Obex\Desktop\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.pdb
+C:\Users\Obex\Desktop\DUOC\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\bin\Debug\Clases.dll
+C:\Users\Obex\Desktop\DUOC\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\bin\Debug\Clases.pdb
+C:\Users\Obex\Desktop\DUOC\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\Obex\Desktop\DUOC\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.dll
+C:\Users\Obex\Desktop\DUOC\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.pdb
+D:\Nueva carpeta\Respaldo\DUOC\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\bin\Debug\Clases.dll
+D:\Nueva carpeta\Respaldo\DUOC\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\bin\Debug\Clases.pdb
+D:\Nueva carpeta\Respaldo\DUOC\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+D:\Nueva carpeta\Respaldo\DUOC\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\Respaldo\DUOC\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.dll
+D:\Nueva carpeta\Respaldo\DUOC\4TO SEMESTRE\NET\Solucion SegurosBeLife 005V\Clases\obj\Debug\Clases.pdb
+C:\Users\ReneC\Desktop\Solucion\Clases\bin\Debug\Clases.dll
+C:\Users\ReneC\Desktop\Solucion\Clases\bin\Debug\Clases.pdb
+C:\Users\ReneC\Desktop\Solucion\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\ReneC\Desktop\Solucion\Clases\obj\Debug\Clases.dll
+C:\Users\ReneC\Desktop\Solucion\Clases\obj\Debug\Clases.pdb
+C:\Users\Raniela\Desktop\Trabajo Grupo net\Proyectos\Rene\Solucion\Clases\bin\Debug\Clases.dll
+C:\Users\Raniela\Desktop\Trabajo Grupo net\Proyectos\Rene\Solucion\Clases\bin\Debug\Clases.pdb
+C:\Users\Raniela\Desktop\Trabajo Grupo net\Proyectos\Rene\Solucion\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\Raniela\Desktop\Trabajo Grupo net\Proyectos\Rene\Solucion\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Raniela\Desktop\Trabajo Grupo net\Proyectos\Rene\Solucion\Clases\obj\Debug\Clases.dll
+C:\Users\Raniela\Desktop\Trabajo Grupo net\Proyectos\Rene\Solucion\Clases\obj\Debug\Clases.pdb
+D:\Duoc\Desarrollo.net\Trabajo N1\SegurosBeLife_v2\SegurosBeLife_v2\Clases\bin\Debug\Clases.dll
+D:\Duoc\Desarrollo.net\Trabajo N1\SegurosBeLife_v2\SegurosBeLife_v2\Clases\bin\Debug\Clases.pdb
+D:\Duoc\Desarrollo.net\Trabajo N1\SegurosBeLife_v2\SegurosBeLife_v2\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\Duoc\Desarrollo.net\Trabajo N1\SegurosBeLife_v2\SegurosBeLife_v2\Clases\obj\Debug\Clases.dll
+D:\Duoc\Desarrollo.net\Trabajo N1\SegurosBeLife_v2\SegurosBeLife_v2\Clases\obj\Debug\Clases.pdb
+D:\Duoc\Desarrollo.net\Trabajo N1\SegurosBeLife_v2\SegurosBeLife_v2\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\Clases\bin\Debug\Clases.dll
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\Clases\bin\Debug\Clases.pdb
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\Clases\obj\Debug\Clases.dll
+C:\Users\ReneC\Desktop\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\Clases\obj\Debug\Clases.pdb
+D:\Duoc\Desarrollo.net\Trabajo N1\ren\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\Clases\bin\Debug\Clases.dll
+D:\Duoc\Desarrollo.net\Trabajo N1\ren\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\Clases\bin\Debug\Clases.pdb
+D:\Duoc\Desarrollo.net\Trabajo N1\ren\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+D:\Duoc\Desarrollo.net\Trabajo N1\ren\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\Duoc\Desarrollo.net\Trabajo N1\ren\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\Clases\obj\Debug\Clases.dll
+D:\Duoc\Desarrollo.net\Trabajo N1\ren\SegurosBeLife_v3_(ModificacionNombre)\SegurosBeLife_v2\Clases\obj\Debug\Clases.pdb
+C:\Users\Raniela\Desktop\Trabajo Grupo net\Proyectos\SegurosBeLife_v3\Clases\bin\Debug\Clases.dll
+C:\Users\Raniela\Desktop\Trabajo Grupo net\Proyectos\SegurosBeLife_v3\Clases\bin\Debug\Clases.pdb
+C:\Users\Raniela\Desktop\Trabajo Grupo net\Proyectos\SegurosBeLife_v3\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\Raniela\Desktop\Trabajo Grupo net\Proyectos\SegurosBeLife_v3\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Raniela\Desktop\Trabajo Grupo net\Proyectos\SegurosBeLife_v3\Clases\obj\Debug\Clases.dll
+C:\Users\Raniela\Desktop\Trabajo Grupo net\Proyectos\SegurosBeLife_v3\Clases\obj\Debug\Clases.pdb
